@@ -2,7 +2,7 @@
 
 <h2>⭐ Featured Projects:</h2>
 
-  - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/TechwTre/spiceworks-knowledge-base)
+   - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/TechwTre/spiceworks-knowledge-base)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/trevisdean
+[linkedin]: https://linkedin.com/in/trevisdean/
