@@ -12,7 +12,12 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TechwTre/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TechwTre/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TechwTre/azure-network-protocols)
+- <b>Jira Service Management</b>
+  - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
+  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/kirkgacias/jira-configuration)  
+- <b>Network File Shares and Permissions</b>
+  - [Sharing Resources Over The Network With Permissions](https://github.com/jameswsm/sharing-resources)
+  - [Network Security Groups (NSGs)](https://github.com/jameswsm/network-security-groups)
 
 <h2>🤳Connect with me:</h2>
 
