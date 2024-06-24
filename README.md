@@ -15,8 +15,7 @@
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/kirkgacias/jira-ticket-lifecycle)
   - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/kirkgacias/jira-configuration)  
 - <b>Network File Shares and Permissions</b>
-  - [Sharing Resources Over The Network With Permissions](https://github.com/jameswsm/sharing-resources)
-  - [Network Security Groups (NSGs)](https://github.com/jameswsm/network-security-groups)
+  - [Network Security Groups (NSGs)/Inspecting Network Protocols](https://github.com/TechwTre/network-security-groups)
 
 <h2>🤳Connect with me:</h2>
 
