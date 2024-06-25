@@ -15,7 +15,7 @@
   - [Jira Service Management: Ticket Lifecycle and Resolution](https://github.com/TechwTre/jira-ticket-lifecycle)
   - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/TechwTre/jira-configuration)  
 - <b>Network File Shares and Permissions</b>
-  - [Network Security Groups (NSGs)/Inspecting Network Protocols](https://github.com/TechwTre/network-security-groups)
+  - [Network Security Groups (NSGs)/Inspecting Network Protocols](https://github.com/TechwTre/Azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
