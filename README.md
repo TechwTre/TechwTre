@@ -1,9 +1,5 @@
 <h1>Hi, I'm Tre'vis, an <a href="https://linkedin.com/in/trevisdean">IT Professional</a></h1>
 
-<h2>⭐ Featured Projects:</h2>
-
-   - [Spiceworks: Knowledge Base Development for IT Troubleshooting](https://github.com/TechwTre/spiceworks-knowledge-base)
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
