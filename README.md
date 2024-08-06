@@ -3,7 +3,7 @@
 <h2>👨‍💻 Identity and Access Management Projects:</h2>
 
 - <b>Multi-Factor Authentication (MFA) Integration</b>
-  - [Explore the MFA Integration project](/MFA-Integration/README.md)
+  - [Explore the MFA Integration project](https://github.com/TechwTre/MFA-Integration)
     
 - <b>Passwordless Authentication Implementation</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/TechwTre/configure-ad)
