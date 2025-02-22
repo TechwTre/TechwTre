@@ -11,7 +11,7 @@
   - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/TechwTre/jira-configuration)
 - <b>Identity Federation and SSO Setup</b>
   - [Network Security Groups (NSGs)/Inspecting Network Protocols](https://github.com/TechwTre/Azure-network-protocols)
-- <b>Identity Federation and SSO Setup</b><h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
