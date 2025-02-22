@@ -13,7 +13,8 @@
 )
     
 - <b>Identity Federation and SSO Setup</b>
-  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/Azure-network-protocols)
+  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/ID-Fed-SSO
+)
     
 <h2>📲Connect with me:</h2>
 
