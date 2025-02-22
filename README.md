@@ -6,7 +6,7 @@
   - [Explore the MFA Integration project](https://github.com/TechwTre/Okta-MFA-SSO)
     
 - <b>Passwordless Authentication Implementation</b>
-  - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/configure-ad)
+  - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/Passwordless-Auth)
     
 - <b>OAuth2 and OpenID Connect Implementation and Attacks</b>
   - [Explore the OAuth2 and OpenID Connect Implementation and Attacks project ](https://github.com/TechwTre/jira-configuration)
