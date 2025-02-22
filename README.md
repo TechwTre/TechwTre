@@ -1,6 +1,6 @@
 <h1>Hi, I am Tre'vis an <a href="https://linkedin.com/in/trevisdean"> IAM Engineer👨‍💻 </a></h1>
 
-<h2>Identity and Access Management Projects:</h2>
+<h2>📂Identity and Access Management Projects:</h2>
 
 - <b>Multi-Factor Authentication (MFA) Integration</b>
   - [Explore the MFA Integration project](https://github.com/TechwTre/Okta-MFA-SSO)
