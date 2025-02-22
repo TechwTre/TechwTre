@@ -9,12 +9,10 @@
   - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/Passwordless-Auth)
     
 - <b>OAuth2 and OpenID Connect Implementation and Attacks</b>
-  - [Explore the OAuth2 and OpenID Connect Implementation and Attacks project ](https://github.com/TechwTre/OAuth2-OpenID-Connect
-)
+  - [Explore the OAuth2 and OpenID Connect Implementation and Attacks project ](https://github.com/TechwTre/OAuth2-OpenID-Connect)
     
 - <b>Identity Federation and SSO Setup</b>
-  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/ID-Fed-SSO
-)
+  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/ID-Federation-SSO)
     
 <h2>📲Connect with me:</h2>
 
