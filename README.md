@@ -9,10 +9,10 @@
   - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/configure-ad)
     
 - <b>OAuth2 and OpenID Connect Implementation and Attacks</b>
-  - [Jira Service Management: Configuration, Workflows and Automation](https://github.com/TechwTre/jira-configuration)
+  - [Explore the OAuth2 and OpenID Connect Implementation and Attacks project ](https://github.com/TechwTre/jira-configuration)
     
 - <b>Identity Federation and SSO Setup</b>
-  - [Network Security Groups (NSGs)/Inspecting Network Protocols](https://github.com/TechwTre/Azure-network-protocols)
+  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/Azure-network-protocols)
     
 <h2>📲Connect with me:</h2>
 
