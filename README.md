@@ -3,7 +3,7 @@
 <h2>Identity and Access Management Projects:</h2>
 
 - <b>Multi-Factor Authentication (MFA) Integration</b>
-  - [Explore the MFA Integration project](https://github.com/TechwTre/MFA-Integration)
+  - [Explore the MFA Integration project](https://github.com/TechwTre/Okta-MFA-SSO)
     
 - <b>Passwordless Authentication Implementation</b>
   - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/configure-ad)
