@@ -2,17 +2,20 @@
 
 <h2>📂Identity and Access Management Projects:</h2>
 
-- <b>Okta SSO & Multi-Factor Authentication (MFA) Integration</b>
-  - [Explore the MFA Integration project](https://github.com/TechwTre/Okta-MFA-SSO)
+- <b>Cross-IdP Federation: Okta → AWS Identity Center + Entra ID</b>
+  - [Explore the Federation Capstone](https://github.com/TechwTre/iam-portfolio/tree/main/02-aws-policy-mechanics)
     
-- <b>Passwordless Authentication Implementation</b>
-  - [Explore the Passwordless Authentication Implementation project](https://github.com/TechwTre/Passwordless-Auth)
+- <b>AWS IAM Policy Mechanics & Evaluation Chain</b>
+  - [Explore the AWS Policy project](https://github.com/TechwTre/iam-portfolio/tree/main/02-aws-policy-mechanics)
     
-- <b>OAuth2 and OpenID Connect Implementation and Attacks</b>
-  - [Explore the OAuth2 and OpenID Connect Implementation and Attacks project ](https://github.com/TechwTre/OAuth2-OpenID-Connect)
+- <b>Entra Conditional Access & PIM Governance</b>
+  - [Explore the Entra Conditional Access & PIM Governance](https://github.com/TechwTre/iam-portfolio/tree/main/04-conditional-access)
     
-- <b>Identity Federation and SSO Setup</b>
-  - [Explore the Identity Federation and SSO Setup project](https://github.com/TechwTre/ID-Federation-SSO)
+- <b>Offensive IAM: The Big IAM Challenge Writeups</b>
+  - [Explore the IAM CTF writeups](https://github.com/TechwTre/iam-portfolio/tree/main/03-big-iam-challenge)
+
+- <b>PowerShell + Microsoft Graph Identity Automation</b>
+  - [Explore the Graph Automation projects](https://github.com/TechwTre/iam-portfolio/tree/main/08-powershell-graph-automation)
     
 <h2>📲Connect with me:</h2>
 
